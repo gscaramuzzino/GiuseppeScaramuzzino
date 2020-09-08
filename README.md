@@ -7,8 +7,8 @@
 💡 &nbsp;I like to learn new technologies, programming languages and frameworks to develop software solutions.\
 🌱 &nbsp;I'm currently studying Cloud Architecture.\
 ⚡ &nbsp;I'm on track for learning more about Sofware and Systems Design.\
-🎥 &nbsp;I have a [YouTube](https://www.youtube.com/c/GiuseppeScaramuzzino) channel where I share free tutorials. 
-💬 &nbsp;Feel free to reach out to me.\
+🎥 &nbsp;I have a [YouTube](https://www.youtube.com/c/GiuseppeScaramuzzino) channel where I share free tutorials. \
+💬 &nbsp;Feel free to reach out to me, ask questions. I can help you, teach you and support you with your software development.\
 📄 &nbsp;Take a look of my [CV Resume](https://drive.google.com/drive/folders/1xy70EK_P1tYi63BS11wNPyE7t5xooh-O?usp=sharing) for have more details about my experience.
 
 
