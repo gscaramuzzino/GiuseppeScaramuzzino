@@ -1,8 +1,7 @@
 
-## 👋 &nbsp;Hey there! I'm Giuseppe
+# 👋 &nbsp;Hey there! I'm Giuseppe
 
-### 👨🏻‍💻 &nbsp;About Me
-
+## 👨🏻‍💻 &nbsp;About Me
 🔭 &nbsp;I’m currently working with [Quarkus](https://quarkus.io/) framework. \
 💡 &nbsp;I like to learn new technologies, programming languages and frameworks to develop software solutions.\
 🌱 &nbsp;I'm currently studying Cloud Architecture.\
@@ -12,8 +11,7 @@
 📄 &nbsp;Take a look of my [CV Resume](https://drive.google.com/drive/folders/1xy70EK_P1tYi63BS11wNPyE7t5xooh-O?usp=sharing) for have more details about my experience.
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
+## ⚙️ &nbsp;GitHub Analytics
 <p>
 <a href="https://github.com/GiuseppeScaramuzzino">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiuseppeScaramuzzino&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
