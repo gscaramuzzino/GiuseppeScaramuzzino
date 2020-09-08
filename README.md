@@ -23,28 +23,30 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
       </td>
-      <td width="10%" align="center">
+     </tr>
+     <tr valign="top">
+      <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
       </td>
-        <td width="10%" align="center">
+        <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
