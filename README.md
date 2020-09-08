@@ -21,6 +21,15 @@
 </a>
 </p>
 
+## 💌 Get in touch
+- Email: giuse.scara@gmail.com
+- Linkedin: https://www.linkedin.com/in/giuseppe-scaramuzzino/
+- Twitter: [https://twitter.com/GiuseScara](https://twitter.com/GiuseScara)
+- YouTube: https://www.youtube.com/c/GiuseppeScaramuzzino
+- Personal Website: https://linktr.ee/giuseppescaramuzzino
+- Medium Blog: [https://medium.com/@GiuseppeScaramuzzino](https://medium.com/@GiuseppeScaramuzzino)
+- StackOverflow: [https://stackoverflow.com/users/story/4202143](https://stackoverflow.com/users/story/4202143)
+
 <!--
 **GiuseppeScaramuzzino/GiuseppeScaramuzzino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
