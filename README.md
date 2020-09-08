@@ -90,6 +90,9 @@
 - Medium Blog: [https://medium.com/@GiuseppeScaramuzzino](https://medium.com/@GiuseppeScaramuzzino)
 - StackOverflow: [https://stackoverflow.com/users/story/4202143](https://stackoverflow.com/users/story/4202143)
 
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=giuseppescaramuzzino)
 
 <!--
 **GiuseppeScaramuzzino/GiuseppeScaramuzzino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
