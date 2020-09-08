@@ -19,7 +19,7 @@
 </a>
 </p>
 
-## 🛠️ Tech Stack
+## 🛠️ &nbsp;Tech Stack
 <table>
   <tbody>
     <tr valign="top">
@@ -81,7 +81,7 @@
   </tbody>
 </table>
 
-## 💌 Get in touch
+## 💌 &nbsp;Get in touch
 - Email: giuse.scara@gmail.com
 - Linkedin: https://www.linkedin.com/in/giuseppe-scaramuzzino/
 - Twitter: [https://twitter.com/GiuseScara](https://twitter.com/GiuseScara)
@@ -90,7 +90,7 @@
 - Medium Blog: [https://medium.com/@GiuseppeScaramuzzino](https://medium.com/@GiuseppeScaramuzzino)
 - StackOverflow: [https://stackoverflow.com/users/story/4202143](https://stackoverflow.com/users/story/4202143)
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+## ⭐️ 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=giuseppescaramuzzino)
 
