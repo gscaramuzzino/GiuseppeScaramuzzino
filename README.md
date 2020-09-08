@@ -19,7 +19,7 @@
 </a>
 </p>
 
-## 💌 Tech Stack
+## 🛠️ Tech Stack
 <table>
   <tbody>
     <tr valign="top">
