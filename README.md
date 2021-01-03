@@ -85,10 +85,11 @@
 - Email: giuse.scara@gmail.com
 - Linkedin: https://www.linkedin.com/in/giuseppe-scaramuzzino/
 - Twitter: [https://twitter.com/GiuseScara](https://twitter.com/GiuseScara)
-- YouTube: https://www.youtube.com/c/GiuseppeScaramuzzino
+- YouTube: https://www.youtube.com/channel/UCV_YnKkwrO1UW6tbASuNaGw
 - Personal Website: https://linktr.ee/giuseppescaramuzzino
 - Medium Blog: [https://medium.com/@GiuseppeScaramuzzino](https://medium.com/@GiuseppeScaramuzzino)
 - StackOverflow: [https://stackoverflow.com/users/story/4202143](https://stackoverflow.com/users/story/4202143)
+- Instagram: [https://www.instagram.com/giuseppe_scaramuzzino/] (https://www.instagram.com/giuseppe_scaramuzzino/)
 
 ## ⭐️ &nbsp;𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
