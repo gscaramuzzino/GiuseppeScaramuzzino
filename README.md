@@ -84,10 +84,9 @@
 
 ## 🧑‍💻 Mentoring & Coaching
 
-I remember very well when I started my journey that led me to become a developer.
-At the time the resources on which to study outside the academic environment were very few and often it was not clear which path to follow.
+When I started my journey that led me to become a software developer the resources on which to study outside the academic environment were very few and often it was not clear which path to follow.
 
-For this reason, I want to propose myself without any type of commitment to Mentoring and Coaching.
+For this reason, I am open to Mentoring and Coaching you.
 
 📧  Contact me if you find yourself in one of these situations:
 
