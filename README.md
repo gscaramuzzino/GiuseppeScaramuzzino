@@ -11,7 +11,7 @@
 📄 &nbsp;Take a look of my [CV Resume](https://drive.google.com/drive/folders/1xy70EK_P1tYi63BS11wNPyE7t5xooh-O?usp=sharing) for have more details about my experience.
 
 ## 🛠️ &nbsp;Tech Stack
-<table>
+<table style="width: 100%">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
