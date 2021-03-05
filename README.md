@@ -10,15 +10,6 @@
 💬 &nbsp;Feel free to reach out to me. I will be very happy to help you, teach you and support you with your software development.\
 📄 &nbsp;Take a look of my [CV Resume](https://drive.google.com/drive/folders/1xy70EK_P1tYi63BS11wNPyE7t5xooh-O?usp=sharing) for have more details about my experience.
 
-
-## ⚙️ &nbsp;GitHub Analytics
-<p>
-<a href="https://github.com/GiuseppeScaramuzzino">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiuseppeScaramuzzino&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiuseppeScaramuzzino&layout=compact&theme=vue-dark" />
-</a>
-</p>
-
 ## 🛠️ &nbsp;Tech Stack
 <table>
   <tbody>
@@ -90,6 +81,29 @@
 - Medium Blog: [https://medium.com/@GiuseppeScaramuzzino](https://medium.com/@GiuseppeScaramuzzino)
 - StackOverflow: [https://stackoverflow.com/users/story/4202143](https://stackoverflow.com/users/story/4202143)
 - Instagram: [https://www.instagram.com/giuseppe_scaramuzzino/] (https://www.instagram.com/giuseppe_scaramuzzino/)
+
+## 🧑‍💻 Mentoring & Coaching
+
+I remember very well when I started my journey that led me to become a developer.
+At the time the resources on which to study outside the academic environment were very few and often it was not clear which path to follow.
+
+For this reason, I want to propose myself without any type of commitment to Mentoring and Coaching.
+
+📧  Contact me if you find yourself in one of these situations:
+
+- If you are a student or have just graduated and want to start your career as a programmer
+- If you work in another industry and would like to enter the world of programming
+- If you need advice on the career you have undertaken
+
+✍🏻 Don't hesitate to contact me!
+
+## ⚙️ &nbsp;GitHub Analytics
+<p>
+<a href="https://github.com/GiuseppeScaramuzzino">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiuseppeScaramuzzino&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiuseppeScaramuzzino&layout=compact&theme=vue-dark" />
+</a>
+</p>
 
 ## ⭐️ &nbsp;𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
