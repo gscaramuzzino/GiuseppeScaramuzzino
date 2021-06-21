@@ -1,5 +1,9 @@
 
-# 👋 &nbsp;Hey there! I'm Giuseppe...
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">, I'm Giuseppe!
+---
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCV_YnKkwrO1UW6tbASuNaGw?label=Subscribers%20to%20my%20channel&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/GiuseScara?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCV_YnKkwrO1UW6tbASuNaGw?label=Views%20on%20my%20channel&style=social)
 
 ## 👨🏻‍💻 &nbsp;About Me
 🔭 &nbsp;I’m currently working with [Quarkus](https://quarkus.io/) framework. \
@@ -11,66 +15,7 @@
 📄 &nbsp;Take a look of my [CV Resume](https://drive.google.com/drive/folders/1xy70EK_P1tYi63BS11wNPyE7t5xooh-O?usp=sharing) for have more details about my experience.
 
 ## 🛠️ &nbsp;Tech Stack
-<table style="width: 100% !important">
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
-      </td>
-     </tr>
-     <tr valign="top">
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-      </td>
-        <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/google-developers-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/bitbucket.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/jetbrains.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="redhat" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="intellij" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="less" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50" /> 
 
 ## 💌 &nbsp;Get in touch
 - Email: giuse.scara@gmail.com
