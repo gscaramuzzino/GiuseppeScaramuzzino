@@ -33,7 +33,7 @@ I help developers to get rid of the old Monolith applications and build high-qua
 - [How to manage password in Azure Key Vault | Microsoft AZURE | Cloud | Azure tutorial](https://www.youtube.com/watch?v=pBMZd6nu1Aw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-▶️ [...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
+&nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
 
 ## 💌 &nbsp;Get in touch
 - Email: giuse.scara@gmail.com
@@ -63,7 +63,6 @@ For this reason, I am open to Mentoring and Coaching you.
 <p>
 <a href="https://github.com/GiuseppeScaramuzzino">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiuseppeScaramuzzino&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiuseppeScaramuzzino&layout=compact&theme=vue-dark" />
 </a>
 </p>
 
