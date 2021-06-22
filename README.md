@@ -1,9 +1,9 @@
 
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">, I'm Giuseppe!
 ---
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCV_YnKkwrO1UW6tbASuNaGw?label=Subscribers%20to%20my%20channel&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/GiuseScara?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCV_YnKkwrO1UW6tbASuNaGw?label=Views%20on%20my%20channel&style=social)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCV_YnKkwrO1UW6tbASuNaGw?label=Subscribers%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCV_YnKkwrO1UW6tbASuNaGw?sub_confirmation=1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/GiuseScara?style=social)](https://twitter.com/intent/follow?screen_name=GiuseScara)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCV_YnKkwrO1UW6tbASuNaGw?label=Views%20on%20my%20channel&style=social)]((https://www.youtube.com/channel/UCV_YnKkwrO1UW6tbASuNaGw?sub_confirmation=1))
 
 ## 👨🏻‍💻 &nbsp;About Me
 I'm Software Development Engineer with 8+ years of experience in Full Stack Software Development, mainly web-based. \
@@ -37,13 +37,13 @@ I help developers to get rid of the old Monolith applications and build high-qua
 
 ## 💌 &nbsp;Get in touch
 - Email: giuse.scara@gmail.com
+- YouTube: [https://www.youtube.com/GiuseppeScaramuzzino](https://www.youtube.com/GiuseppeScaramuzzino)
 - Linkedin: https://www.linkedin.com/in/giuseppe-scaramuzzino/
 - Twitter: [https://twitter.com/GiuseScara](https://twitter.com/GiuseScara)
-- YouTube: https://www.youtube.com/channel/UCV_YnKkwrO1UW6tbASuNaGw
-- Personal Website: https://linktr.ee/giuseppescaramuzzino
+- Instagram: [https://www.instagram.com/giuseppe_scaramuzzino/](https://www.instagram.com/giuseppe_scaramuzzino/)
+- Personal Website: [https://linktr.ee/giuseppescaramuzzino](https://linktr.ee/giuseppescaramuzzino)
 - Medium Blog: [https://medium.com/@GiuseppeScaramuzzino](https://medium.com/@GiuseppeScaramuzzino)
-- StackOverflow: [https://stackoverflow.com/users/story/4202143](https://stackoverflow.com/users/story/4202143)
-- Instagram: [https://www.instagram.com/giuseppe_scaramuzzino/] (https://www.instagram.com/giuseppe_scaramuzzino/)
+- StackOverflow: [https://stackoverflow.com/story/giuseppescaramuzzino](https://stackoverflow.com/story/giuseppescaramuzzino)
 
 ## 🧑‍💻 Mentoring & Coaching
 
