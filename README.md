@@ -6,13 +6,19 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCV_YnKkwrO1UW6tbASuNaGw?label=Views%20on%20my%20channel&style=social)
 
 ## 👨🏻‍💻 &nbsp;About Me
-🔭 &nbsp;I’m currently working with [Quarkus](https://quarkus.io/) framework. \
-💡 &nbsp;I like to learn new technologies, programming languages and frameworks to develop software solutions.\
-🌱 &nbsp;I'm currently studying Cloud Architecture.\
-⚡ &nbsp;I'm on track for learning more about Sofware and Systems Design.\
-🎥 &nbsp;I have a [YouTube](https://www.youtube.com/channel/UCV_YnKkwrO1UW6tbASuNaGw) channel where I share free tutorials. \
-💬 &nbsp;Feel free to reach out to me. I will be very happy to help you, teach you and support you with your software development.\
-📄 &nbsp;Take a look of my [CV Resume](https://drive.google.com/drive/folders/1xy70EK_P1tYi63BS11wNPyE7t5xooh-O?usp=sharing) for have more details about my experience.
+I'm Software Development Engineer with 8+ years of experience in Full Stack Software Development, mainly web-based. \
+I've experience working in international environments, multicultural teams and different fields (banking, insurance, cybersecurity, digital and travel). \
+I like to learn new technologies, programming languages and frameworks to develop new software solutions.
+
+✓ 2017: Full Stack Web Development Specialization certification with MEAN Stack (Mongo, Express, Angular, NodeJS) \
+✓ 2016: First level of Java certification (Oracle Certification Associate, Java SE 7 Programmer) \
+✓ 2013: MSc in Computer Science (Turin, Italy)
+
+I’m currently working with [Quarkus](https://quarkus.io/) framework. \
+I help developers to get rid of the old Monolith applications and build high-quality CloudNative Microservices with less stress and a lot of fun using Java with my [YouTube](https://www.youtube.com/channel/UCV_YnKkwrO1UW6tbASuNaGw) channel where I share free tutorials.
+
+💬 &nbsp;Feel free to reach out to me. I will be very happy to help you, teach you and support you with your software development.
+
 
 ## 🛠️ &nbsp;Tech Stack
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="redhat" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="intellij" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50" /> 
