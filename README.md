@@ -23,6 +23,14 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## 🛠️ &nbsp;Tech Stack
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="redhat" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="intellij" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50" /> 
 
+## :movie_camera: Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+▶️ [...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
+
 ## 💌 &nbsp;Get in touch
 - Email: giuse.scara@gmail.com
 - Linkedin: https://www.linkedin.com/in/giuseppe-scaramuzzino/
