@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to debug a Quarkus application with IntelliJ IDEA | Quarkus Tutorial | QUARKUS | Java](https://www.youtube.com/watch?v=44Apvlumx0E)
 - [Testing a Quarkus application with WireMock and Rest Assured | Quarkus Tutorial | QUARKUS | Java](https://www.youtube.com/watch?v=DzBGZpdWnT8)
 - [Understanding application initialization and termination in Quarkus | Quarkus Tutorial | Java](https://www.youtube.com/watch?v=FXzlgM162Zs)
 - [How to enable Json logging in Quarkus | Quarkus Tutorial | QUARKUS | Java | Logger | CloudNative](https://www.youtube.com/watch?v=039uWzungsk)
 - [How to use logging in Quarkus | Quarkus Tutorial | QUARKUS | Java | Logger | CloudNative](https://www.youtube.com/watch?v=jcSffcjuOZ0)
-- [How to manage password in Azure Key Vault | Microsoft AZURE | Cloud | Azure tutorial](https://www.youtube.com/watch?v=pBMZd6nu1Aw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
