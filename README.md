@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [MicroProfile Metrics with Quarkus | Quarkus Tutorial | QUARKUS | MicroProfile | Java | CloudNative](https://www.youtube.com/watch?v=e7iqCQSCGo4)
 - [MicroProfile Health with Quarkus | Quarkus Tutorial | QUARKUS | MicroProfile | Java | CloudNative](https://www.youtube.com/watch?v=aAIgNXEi9Dk)
 - [How to debug a Quarkus application with IntelliJ IDEA | Quarkus Tutorial | QUARKUS | Java](https://www.youtube.com/watch?v=44Apvlumx0E)
 - [Testing a Quarkus application with WireMock and Rest Assured | Quarkus Tutorial | QUARKUS | Java](https://www.youtube.com/watch?v=DzBGZpdWnT8)
 - [Understanding application initialization and termination in Quarkus | Quarkus Tutorial | Java](https://www.youtube.com/watch?v=FXzlgM162Zs)
-- [How to enable Json logging in Quarkus | Quarkus Tutorial | QUARKUS | Java | Logger | CloudNative](https://www.youtube.com/watch?v=039uWzungsk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
