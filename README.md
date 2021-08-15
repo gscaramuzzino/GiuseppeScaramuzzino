@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Java bean mappings with MapStruct and Quarkus  | Quarkus Tutorial | QUARKUS  | CloudNative | Java](https://www.youtube.com/watch?v=r_lrpv9msc8)
 - [Dockerize Quarkus application with Apache Maven | Quarkus Tutorial | QUARKUS  | CloudNative | Java](https://www.youtube.com/watch?v=DZy5xVNGz8k)
 - [Dockerize a Quarkus application with Dockerfiles  | Quarkus Tutorial | QUARKUS  | CloudNative | Java](https://www.youtube.com/watch?v=OGvqvd53jz4)
 - [How to compile a Quarkus Application in Native Mode | Quarkus Tutorial | QUARKUS  | CloudNative](https://www.youtube.com/watch?v=dpK8P4KTzYk)
 - [How to package a Quarkus Application | Quarkus Tutorial | QUARKUS | Java | CloudNative](https://www.youtube.com/watch?v=EAq89Y62ZSs)
-- [MicroProfile Metrics with Quarkus | Quarkus Tutorial | QUARKUS | MicroProfile | Java | CloudNative](https://www.youtube.com/watch?v=e7iqCQSCGo4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
