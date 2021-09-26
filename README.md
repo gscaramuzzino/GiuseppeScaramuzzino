@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [#03 - @ToString and @EqualsAndHashCode | PROJECT LOMBOK | Tutorial | Java](https://www.youtube.com/watch?v=dLCBjloUT_A)
+- [#02 - IntelliJIDEA plugin, Constructor annotations & AccessLevel | PROJECT LOMBOK | Tutorial | Java](https://www.youtube.com/watch?v=qwbXzwmF5hw)
 - [#01 - Introduction with @Getter and @Setter | PROJECT LOMBOK | Tutorial | Java](https://www.youtube.com/watch?v=v6Ea3_GnKG0)
 - [How to merge 2 Lists in Java | Core Java | Tutorial | Java | Java for Beginners](https://www.youtube.com/watch?v=adbiw3jDJ54)
 - [How to convert a list to Array in Java | Core Java | Tutorial | Java | Java for Beginners](https://www.youtube.com/watch?v=MY2eBd9t2MA)
-- [How to use MapStruct to merge 2 Java beans  | Quarkus Tutorial | QUARKUS  | CloudNative | Java](https://www.youtube.com/watch?v=wBb7GcwYBnM)
-- [Java bean mappings with MapStruct and Quarkus  | Quarkus Tutorial | QUARKUS  | CloudNative | Java](https://www.youtube.com/watch?v=r_lrpv9msc8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
