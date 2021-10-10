@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [#05 - @NotNull and @Accessors | PROJECT LOMBOK | Tutorial | Java](https://www.youtube.com/watch?v=veY71dd42WQ)
 - [#04 - Exclude and @Data | PROJECT LOMBOK | Tutorial | Java](https://www.youtube.com/watch?v=S3kw9LnnYL4)
 - [#03 - @ToString and @EqualsAndHashCode | PROJECT LOMBOK | Tutorial | Java](https://www.youtube.com/watch?v=dLCBjloUT_A)
 - [#02 - IntelliJIDEA plugin, Constructor annotations & AccessLevel | PROJECT LOMBOK | Tutorial | Java](https://www.youtube.com/watch?v=qwbXzwmF5hw)
 - [#01 - Introduction with @Getter and @Setter | PROJECT LOMBOK | Tutorial | Java](https://www.youtube.com/watch?v=v6Ea3_GnKG0)
-- [How to merge 2 Lists in Java | Core Java | Tutorial | Java | Java for Beginners](https://www.youtube.com/watch?v=adbiw3jDJ54)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
