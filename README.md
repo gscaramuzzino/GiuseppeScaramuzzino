@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Debug Quarkus application with Visual Studio Code | Quarkus Tutorial | QUARKUS  | CloudNative | Java](https://www.youtube.com/watch?v=3E0xGpC7W3I)
 - [How to store the content of a File inside a String | Core Java | Tutorial | Java for Beginners](https://www.youtube.com/watch?v=bosxNCLHFtE)
 - [How to create a Private and Public key pair | Tutorial | Terminal](https://www.youtube.com/watch?v=TiRvOyHGAW8)
 - [#07 - @Slf4j, lombok.config and @CustomLog  | PROJECT LOMBOK | Tutorial | Java](https://www.youtube.com/watch?v=3_eWTOzROVk)
 - [#06 - @Builder, @Builder Default and @Singular | PROJECT LOMBOK | Tutorial | Java](https://www.youtube.com/watch?v=w5Z1LgMPWlk)
-- [#05 - @NotNull and @Accessors | PROJECT LOMBOK | Tutorial | Java](https://www.youtube.com/watch?v=veY71dd42WQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
