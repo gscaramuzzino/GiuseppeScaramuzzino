@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Setup Visual Studio Code with Java and Quarkus extensions | Quarkus Tutorial | QUARKUS  | Java](https://www.youtube.com/watch?v=xM6XazZalE4)
 - [How to append the content of a File using FileWriter | Core Java | Tutorial | Java for Beginners](https://www.youtube.com/watch?v=4aHoX1qIT4s)
 - [How to use Project Lombok inside Quarkus application | Quarkus Tutorial | QUARKUS  | Java](https://www.youtube.com/watch?v=svMXS6KYXaY)
 - [Debug Quarkus application with Visual Studio Code | Quarkus Tutorial | QUARKUS  | CloudNative | Java](https://www.youtube.com/watch?v=3E0xGpC7W3I)
 - [How to store the content of a File inside a String | Core Java | Tutorial | Java for Beginners](https://www.youtube.com/watch?v=bosxNCLHFtE)
-- [How to create a Private and Public key pair | Tutorial | Terminal](https://www.youtube.com/watch?v=TiRvOyHGAW8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
