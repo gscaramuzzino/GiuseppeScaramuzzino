@@ -40,7 +40,6 @@ I help developers to get rid of the old Monolith applications and build high-qua
 - YouTube: [https://www.youtube.com/GiuseppeScaramuzzino](https://www.youtube.com/GiuseppeScaramuzzino)
 - Linkedin: https://www.linkedin.com/in/giuseppe-scaramuzzino/
 - Twitter: [https://twitter.com/GiuseScara](https://twitter.com/GiuseScara)
-- Instagram: [https://www.instagram.com/giuseppe_scaramuzzino/](https://www.instagram.com/giuseppe_scaramuzzino/)
 - Personal Website: [https://linktr.ee/giuseppescaramuzzino](https://linktr.ee/giuseppescaramuzzino)
 - Medium Blog: [https://medium.com/@GiuseppeScaramuzzino](https://medium.com/@GiuseppeScaramuzzino)
 - StackOverflow: [https://stackoverflow.com/story/giuseppescaramuzzino](https://stackoverflow.com/story/giuseppescaramuzzino)
