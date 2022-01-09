@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Containers Tutorials Part 2 - docker exec, docker push and Dockerless  | Docker | CloudNative](https://www.youtube.com/watch?v=QJhAPASHSRU)
 - [Containers Tutorials Part 1 - Containerize Java Application | Docker | CloudNative | Java | Quarkus](https://www.youtube.com/watch?v=X7sGqwH6HOo)
 - [TDD approach with Continuous Testing in Quarkus 2 | Quarkus Tutorial | QUARKUS | CloudNative | Java](https://www.youtube.com/watch?v=2ZC-f83GNfI)
 - [How to use Quarkus Command Mode | Quarkus Tutorial | QUARKUS | CloudNative | Java](https://www.youtube.com/watch?v=xcwiPgy8-jY)
 - [Create a Quarkus project using MongoDB | Quarkus Tutorial | QUARKUS | CloudNative | Java](https://www.youtube.com/watch?v=HTmecFdixgg)
-- [Setup Visual Studio Code with Java and Quarkus extensions | Quarkus Tutorial | QUARKUS  | Java](https://www.youtube.com/watch?v=xM6XazZalE4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
