@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Introduction to Java Http Client in Java 11 &lpar;JEP 321 - 110&rpar; | Core Java | Tutorial | Java](https://www.youtube.com/watch?v=oOyJRX9R1HY)
 - [How to use Flyway DB migration tool SQL Script | Quarkus Tutorial | QUARKUS | CloudNative | Java](https://www.youtube.com/watch?v=Kz_mcVuKIXs)
 - [Launch Single-File Source-Code Programs in Java 11 &lpar;JEP 330&rpar; | Core Java | Tutorial | Java](https://www.youtube.com/watch?v=0tloammGdz0)
 - [#2 How to use Hibernate Validator extension with Quarkus | Quarkus Tutorial | CloudNative | Java](https://www.youtube.com/watch?v=DAPbCmBHUGk)
 - [#1 How to use Hibernate Validator extension with Quarkus | Quarkus Tutorial | CloudNative | Java](https://www.youtube.com/watch?v=XJwQ3klue64)
-- [Containers Tutorials Part 2 - docker exec, docker push and Dockerless  | Docker | CloudNative](https://www.youtube.com/watch?v=QJhAPASHSRU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
