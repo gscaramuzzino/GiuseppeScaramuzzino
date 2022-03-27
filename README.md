@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Authentication and Authorization using JWT Token and Roles-Based Access Control | Quarkus Tutorial](https://www.youtube.com/watch?v=0FVJlSJR0Zo)
 - [How to use the static method Predicate::not in Java 11 | Core Java | Tutorial | Java](https://www.youtube.com/watch?v=kP0TmHdY1WU)
 - [How to use Flyway DB migration tool Java-Based migration | Quarkus Tutorial | QUARKUS | CloudNative](https://www.youtube.com/watch?v=ie5GWoUJ7wc)
 - [Introduction to Java Http Client in Java 11 &lpar;JEP 321 - 110&rpar; | Core Java | Tutorial | Java](https://www.youtube.com/watch?v=oOyJRX9R1HY)
 - [How to use Flyway DB migration tool SQL Script | Quarkus Tutorial | QUARKUS | CloudNative | Java](https://www.youtube.com/watch?v=Kz_mcVuKIXs)
-- [Launch Single-File Source-Code Programs in Java 11 &lpar;JEP 330&rpar; | Core Java | Tutorial | Java](https://www.youtube.com/watch?v=0tloammGdz0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
