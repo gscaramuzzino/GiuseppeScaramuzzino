@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to use the Test Security extension with Quarkus | Quarkus Tutorial | CloudNative | Java](https://www.youtube.com/watch?v=6j1LSZNCo6o)
 - [How to use the Local Variable Type Inference in Java 10 | Core Java | Tutorial | Java](https://www.youtube.com/watch?v=MT47vuvwDOM)
 - [How to schedule periodic tasks with Quarkus | Quarkus Tutorial | QUARKUS | CloudNative | Java](https://www.youtube.com/watch?v=CDG2v6qwuy0)
 - [How to read and write files with the new File APIs in Java 11 | Core Java | Tutorial | Java](https://www.youtube.com/watch?v=u10S_EOKQ38)
 - [Authentication and Authorization using JWT Token and Roles-Based Access Control | Quarkus Tutorial](https://www.youtube.com/watch?v=0FVJlSJR0Zo)
-- [How to use the static method Predicate::not in Java 11 | Core Java | Tutorial | Java](https://www.youtube.com/watch?v=kP0TmHdY1WU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
