@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Part #1 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=2sJwE_XDZns)
 - [How to compare 2 files with Files.mismatch in Java 12 | Core Java | Tutorial | Java](https://www.youtube.com/watch?v=laaLW7AlfBQ)
 - [How to use Dev Services in Quarkus 2.x | Quarkus Tutorial | QUARKUS | CloudNative | Java](https://www.youtube.com/watch?v=BkVzMwEUueo)
 - [How to use the Test Security extension with Quarkus | Quarkus Tutorial | CloudNative | Java](https://www.youtube.com/watch?v=6j1LSZNCo6o)
 - [How to use the Local Variable Type Inference in Java 10 | Core Java | Tutorial | Java](https://www.youtube.com/watch?v=MT47vuvwDOM)
-- [How to schedule periodic tasks with Quarkus | Quarkus Tutorial | QUARKUS | CloudNative | Java](https://www.youtube.com/watch?v=CDG2v6qwuy0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
