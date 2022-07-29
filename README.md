@@ -36,7 +36,6 @@ I help developers to get rid of the old Monolith applications and build high-qua
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
 
 ## 💌 &nbsp;Get in touch
-- Email: giuseppes.dev@pm.me
 - YouTube: [https://www.youtube.com/GiuseppeScaramuzzino](https://www.youtube.com/GiuseppeScaramuzzino)
 - Linkedin: https://www.linkedin.com/in/giuseppe-scaramuzzino/
 - Twitter: [https://twitter.com/GiuseScara](https://twitter.com/GiuseScara)
