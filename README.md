@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Part #8 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=Zm3KF3D3cbk)
 - [Part #7 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=ViNWSzeEWMg)
 - [Part #6 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=q-TgUR03t60)
 - [Part #5 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=4fzgxlPiYYY)
 - [Part #4 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=_lRmXcxpeLI)
-- [Part #3 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=r2orGbtqi70)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
