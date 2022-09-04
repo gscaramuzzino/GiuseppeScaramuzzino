@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to install Java OpenJDK 18 on macOS | Core Java | Tutorial](https://www.youtube.com/watch?v=neLpM38uOMs)
 - [Part #8 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=Zm3KF3D3cbk)
+- [JEP 408: The new Java Simple Web Server introduced in Java 18 | Java Tutorial](https://www.youtube.com/watch?v=F6wNFGd9xS8)
 - [Part #7 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=ViNWSzeEWMg)
 - [Part #6 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=q-TgUR03t60)
-- [Part #5 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=4fzgxlPiYYY)
-- [Part #4 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=_lRmXcxpeLI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
