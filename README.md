@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [JEP 408: Create a server instance using the new SimpleFileServer APIs introduced in Java 18 | Java](https://www.youtube.com/watch?v=1g_ur2uchEA)
 - [JEP 408: The new Java Simple Web Server introduced in Java 18 | Java Tutorial](https://www.youtube.com/watch?v=F6wNFGd9xS8)
 - [How to install Java OpenJDK 18 on macOS | Core Java | Tutorial](https://www.youtube.com/watch?v=neLpM38uOMs)
+- [JEP 408: Create a file handler using the new SimpleFileServer APIs introduced in Java 18 | Java](https://www.youtube.com/watch?v=_5wRk8Cx3MQ)
 - [Part #8 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=Zm3KF3D3cbk)
-- [JEP 408: Create a server instance using the new SimpleFileServer APIs introduced in Java 18 | Java](https://www.youtube.com/watch?v=1g_ur2uchEA)
-- [Part #7 - Let&#39;s Build a UrlShortener -TinyURL Clone with Quarkus 2 | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=ViNWSzeEWMg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
