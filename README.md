@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Important announcement: The Complete Go &lpar;Golang&rpar; Course is ready! | Go | Full Course | CloudNative](https://www.youtube.com/watch?v=vd2DLtLci74)
 - [Introduction to Go &lpar;Golang&rpar; - Lesson 01 | Go | Full Course | CloudNative | Golang](https://www.youtube.com/watch?v=Dp1ZcmM4fmM)
+- [Important announcement: The Complete Go &lpar;Golang&rpar; Course is ready! | Go | Full Course | CloudNative](https://www.youtube.com/watch?v=vd2DLtLci74)
+- [Write your first Go Program - Lesson 02 | Go | Full Course | CloudNative | Golang](https://www.youtube.com/watch?v=qFGfwwAkbB4)
 - [JEP 408: Create a file handler using the new SimpleFileServer APIs introduced in Java 18 | Java](https://www.youtube.com/watch?v=_5wRk8Cx3MQ)
 - [JEP 408: Create a server instance using the new SimpleFileServer APIs introduced in Java 18 | Java](https://www.youtube.com/watch?v=1g_ur2uchEA)
-- [JEP 408: The new Java Simple Web Server introduced in Java 18 | Java Tutorial](https://www.youtube.com/watch?v=F6wNFGd9xS8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
