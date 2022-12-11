@@ -26,11 +26,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Data Types - Lesson 05 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=qrUq7K891VQ)
 - [Variables and Constants  - Lesson 04 | Go | Full Course | CloudNative | Golang](https://www.youtube.com/watch?v=YdlpADmdxKA)
 - [Setup your environment for Go - Lesson 03 | Go | Full Course | CloudNative | Golang](https://www.youtube.com/watch?v=ZmJA7FAlJ0U)
 - [Authentication and Authorization using JWT Token and Roles-Based Access Control](https://www.youtube.com/watch?v=WMHh5sQKHHk)
 - [Full Golang Tutorial Announcement](https://www.youtube.com/watch?v=AvWSSndoaqI)
-- [Write your first Go Program - Lesson 02 | Go | Full Course | CloudNative | Golang](https://www.youtube.com/watch?v=qFGfwwAkbB4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
