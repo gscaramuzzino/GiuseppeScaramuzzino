@@ -6,10 +6,11 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCV_YnKkwrO1UW6tbASuNaGw?label=Views%20on%20my%20channel&style=social)]((https://www.youtube.com/channel/UCV_YnKkwrO1UW6tbASuNaGw?sub_confirmation=1))
 
 ## 👨🏻‍💻 &nbsp;About Me
-I’m Giuseppe, Sr. Software Engineer and Content Creator with a decade of experience working internationally in Full Stack Software Development across various industries. \
+I’m Giuseppe, Sr. Software Engineer and Content Creator with a decade of experience working internationally in Software Development across various industries. \
 My strong technical abilities and appetite to continuously learn have been the foundations for building my key skills: Java knowledge, Go knowledge, Back end development, Front end development, and Full Stack Development with UX and UI principles.  \
 I like to learn new technologies, programming languages and frameworks to develop new software solutions.
 
+✓ 2022: Microsoft Certified: Azure Fundamentals (AZ-900) \
 ✓ 2017: Full Stack Web Development Specialization certification with MEAN Stack (Mongo, Express, Angular, NodeJS) \
 ✓ 2016: First level of Java certification (Oracle Certification Associate, Java SE 7 Programmer) \
 ✓ 2013: MSc in Computer Science (Turin, Italy)
@@ -21,7 +22,7 @@ I help developers to get rid of the old Monolith applications and build high-qua
 
 
 ## 🛠️ &nbsp;Tech Stack
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="redhat" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="intellij" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="redhat" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="intellij" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50" /> 
 
 ## :movie_camera: Latest YouTube Videos
 
@@ -41,13 +42,8 @@ I help developers to get rid of the old Monolith applications and build high-qua
 - Twitter: [https://twitter.com/GiuseScara](https://twitter.com/GiuseScara)
 - Personal Website: [https://linktr.ee/giuseppescaramuzzino](https://linktr.ee/giuseppescaramuzzino)
 - Medium Blog: [https://medium.com/@GiuseppeScaramuzzino](https://medium.com/@GiuseppeScaramuzzino)
-- StackOverflow: [https://stackoverflow.com/story/giuseppescaramuzzino](https://stackoverflow.com/story/giuseppescaramuzzino)
 
 ## 🧑‍💻 Mentoring & Coaching
-
-When I started my journey that led me to become a software developer the resources on which to study outside the academic environment were very few and often it was not clear which path to follow.
-
-For this reason, I am open to Mentoring and Coaching you.
 
 📧  Contact me if you find yourself in one of these situations:
 
