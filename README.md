@@ -27,7 +27,7 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Flow Contro Switch statement  - Lesson 07 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=gxk-DCURVzs)
+- [Flow Control Switch statement  - Lesson 07 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=gxk-DCURVzs)
 - [Flow Control If/Else statement  - Lesson 06 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=G4xzYcz4pME)
 - [Data Types - Lesson 05 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=qrUq7K891VQ)
 - [Variables and Constants  - Lesson 04 | Go | Full Course | CloudNative | Golang](https://www.youtube.com/watch?v=YdlpADmdxKA)
