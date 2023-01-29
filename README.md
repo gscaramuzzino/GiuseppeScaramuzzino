@@ -27,11 +27,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Functions- Lesson 13 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=BO2vxzhBn5I)
+- [Continue statement - Lesson 12 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=b_yzlCOfnYQ)
 - [While Loop  - Lesson 11 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=1yGom0Yt1xk)
 - [Range Loop  - Lesson 10 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=e2KwFGNm9uc)
 - [Infinte Loop  - Lesson 09 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=BSTM-39KR9E)
-- [For Loop  - Lesson 08 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=8CTHXmtI7PU)
-- [Flow Control Switch statement  - Lesson 07 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=gxk-DCURVzs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
