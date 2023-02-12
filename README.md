@@ -27,11 +27,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Error Handling - Lesson 17 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=Cldx3pJAU3k)
+- [Recover function - Lesson 16 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=zVyEFmSEYSU)
 - [Panic function - Lesson 15 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=EJQ_66305Y4)
 - [Defer function - Lesson 14 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=0XOGc557-SA)
 - [Functions- Lesson 13 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=BO2vxzhBn5I)
-- [Continue statement - Lesson 12 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=b_yzlCOfnYQ)
-- [While Loop  - Lesson 11 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=1yGom0Yt1xk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
