@@ -27,11 +27,11 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Maps in Golang - Lesson 24 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=3V7AiatxqAs)
 - [Struct in Golang - Lesson 23 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=jEVE5DjEGmY)
 - [Slice in Golang - Lesson 22 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=y2rmu7AruN0)
 - [Matrix in Golang - Lesson 21 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=4ibn9amwwB8)
 - [Array in Golang - Lesson 20 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=6pT1LdXRqxI)
-- [Read user input in Golang - Lesson 19 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=F7OT_mZvKNU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
