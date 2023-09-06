@@ -38,7 +38,7 @@ I help developers to get rid of the old Monolith applications and build high-qua
 
 ## 💌 &nbsp;Get in touch
 - YouTube: [https://www.youtube.com/GiuseppeScaramuzzino](https://www.youtube.com/GiuseppeScaramuzzino)
-- Linkedin: https://www.linkedin.com/in/giuseppe-scaramuzzino/
+- Linkedin: https://www.linkedin.com/in/gscaramuzzino
 - Twitter: [https://twitter.com/GiuseScara](https://twitter.com/GiuseScara)
 - Personal Website: [https://linktr.ee/giuseppescaramuzzino](https://linktr.ee/giuseppescaramuzzino)
 - Medium Blog: [https://medium.com/@GiuseppeScaramuzzino](https://medium.com/@GiuseppeScaramuzzino)
@@ -56,7 +56,7 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## ⚙️ &nbsp;GitHub Analytics
 <p>
 <a href="https://github.com/gscaramuzzino">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiuseppeScaramuzzino&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gscaramuzzino&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 </a>
 </p>
 
