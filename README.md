@@ -15,7 +15,7 @@ I like to learn new technologies, programming languages and frameworks to develo
 ✓ 2016: First level of Java certification (Oracle Certification Associate, Java SE 7 Programmer) \
 ✓ 2013: MSc in Computer Science (Turin, Italy)
 
-I’m currently working with [Go](https://go.dev/) and [Quarkus](https://quarkus.io/) framework. \
+I’m currently working with [Go](https://go.dev/) and [Quarkus](https://quarkus.io/) frameworks. \
 I help developers to get rid of the old Monolith applications and build high-quality CloudNative Microservices with less stress and a lot of fun using Go and Java with my [YouTube](https://www.youtube.com/channel/UCV_YnKkwrO1UW6tbASuNaGw) channel where I share free tutorials.
 
 💬 &nbsp;Feel free to reach out to me. I will be very happy to help you, teach you and support you with your software development.
@@ -55,7 +55,7 @@ I help developers to get rid of the old Monolith applications and build high-qua
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p>
-<a href="https://github.com/GiuseppeScaramuzzino">
+<a href="https://github.com/gscaramuzzino">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiuseppeScaramuzzino&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 </a>
 </p>
