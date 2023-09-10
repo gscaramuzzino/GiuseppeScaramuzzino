@@ -28,10 +28,10 @@ I help developers to get rid of the old Monolith applications and build high-qua
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Getting Started with Quarkus CLI: Installation and Setup | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=HacojA4aQaY)
+- [Your First Quarkus Project with Quarkus CLI: Creation Extensions  | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=PYs3Cd0ogNk)
 - [How to create a simple WebServer in Go with net/http package CloudNative | Go for beginners](https://www.youtube.com/watch?v=pRFpxQJKSRo)
 - [Interface in Golang - Lesson 25 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=25lDfvUlLVU)
 - [Maps in Golang - Lesson 24 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=3V7AiatxqAs)
-- [Struct in Golang - Lesson 23 | Go | Full Course | CloudNative | Go Tutorial | Golang](https://www.youtube.com/watch?v=jEVE5DjEGmY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
