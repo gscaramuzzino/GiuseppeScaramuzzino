@@ -27,9 +27,9 @@ I help developers to get rid of the old Monolith applications and build high-qua
 ## :movie_camera: Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Building and Pushing Container Images with Quarkus CLI | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=R5XsiXhddic)
 - [Taking Your Quarkus App Live with Quarkus CLI: Building, running and testing | Tutorial | Java](https://www.youtube.com/watch?v=ZEsiTzp3GIA)
 - [Your First Quarkus Project with Quarkus CLI: Creation Extensions  | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=PYs3Cd0ogNk)
-- [Building and Pushing Container Images with Quarkus CLI | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=R5XsiXhddic)
 - [Getting Started with Quarkus CLI: Installation and Setup | Tutorial | Java | CloudNative](https://www.youtube.com/watch?v=HacojA4aQaY)
 - [How to create a simple WebServer in Go with net/http package CloudNative | Go for beginners](https://www.youtube.com/watch?v=pRFpxQJKSRo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
